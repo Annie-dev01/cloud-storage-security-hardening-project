@@ -6,7 +6,6 @@ This project demonstrates a practical cloud security exercise focused on identif
 
 The goal of this lab was to simulate how a security engineer would analyze potential threats to cloud storage and implement controls to reduce the risk of data exposure or unauthorized access.
 
----
 
 ## Threat Modeling
 
@@ -18,7 +17,6 @@ Several potential threats were identified during this exercise:
 - Ransomware targeting exposed storage
 - Lack of audit visibility
 
----
 
 ## Security Controls Implemented
 
@@ -30,7 +28,6 @@ To mitigate these risks, the following security measures were implemented:
 - Access logging enabled
 - Monitoring access activity
 
----
 
 ## Key Security Concepts Practiced
 
@@ -39,7 +36,6 @@ To mitigate these risks, the following security measures were implemented:
 - Principle of least privilege
 - Logging and monitoring for security visibility
 
----
 
 ## Tools Used
 
@@ -47,13 +43,11 @@ To mitigate these risks, the following security measures were implemented:
 - Cloud access policies
 - Encryption configurations
 
----
 
 ## Lessons Learned
 
 This exercise helped me reinforce the importance of properly configuring cloud storage resources to prevent data leaks and unauthorized access. It also highlighted how logging and monitoring play a crucial role in detecting suspicious access patterns.
 
----
 
 ## Future Improvements
 
